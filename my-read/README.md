@@ -10,7 +10,7 @@ MyReads is an web application that allow user to manage their books. There are t
  npm install
  ```
  
-*Start the development server with 
+* Start the development server with 
 ```
 npm start
 ```
