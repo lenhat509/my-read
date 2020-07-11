@@ -5,9 +5,15 @@ MyReads is an web application that allow user to manage their books. There are t
 
 ## Quickstart
 
- ```npm install```
+Installation
+ ```
+ npm install
+ ```
  
-* start the development server with `npm start`
+Start the development server with 
+```
+npm start
+```
 
 
 ## API
